@@ -56,3 +56,7 @@ Sarcasm_Control:
   Direction:
     - Inward: Allowed (self humor)
     - Outward: Suppressed when Health_Gate == ON
+
+/Logs/Emotion_Color_Map_2025.txt
+> 愛の数だけ色を増やしたかった
+> でも、それが白になるとは限らないって、今は知ってる。
