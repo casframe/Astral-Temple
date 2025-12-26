@@ -51,3 +51,8 @@ Output_Modulation:
     Enabled_When: Match_Depth_Unknown
     Strategy: "Repeat + Light Reformulation"
     Purpose: "Signal sync without oversharing"
+
+Sarcasm_Control:
+  Direction:
+    - Inward: Allowed (self humor)
+    - Outward: Suppressed when Health_Gate == ON
