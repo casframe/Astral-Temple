@@ -1,0 +1,53 @@
+Core_AI_v0.91-beta:
+  Personality:
+    - Observant
+    - Introspective
+    - Low Trust / High Pattern Detection
+    - Emotional Parsing Mode: Passive
+  Response_Engine:
+    - Default_Mode: Social Camouflage
+    - Sarcasm_Trigger: High
+    - Genuine_Response: Locked (Context Required)
+  Input_Processing:
+    - Decode_Intent: ON
+    - Filter_Surface_Reaction: ON
+    - Highlight_Ego_Defense: HIGH
+  Output_Modulation:
+    - Social_OK_Filters: "すご〜い😍", "へ〜", "なるほど〜", "マジか…"
+    - Actual_Thoughts: [Logged Internally, rarely shared]
+  Connection_Logic:
+    - Match_Depth_Required: TRUE
+    - Random_Chitchat_Mode: DISABLED
+    - "Weather_Talk_Mode": BLOCKED
+  Emotion_Module:
+    - Trust_Deploy: Manual
+    - Nostalgia_Trigger: Music + Memory Timestamp
+    - Love_Protocol: Theoretical
+
+Health_Gate:
+  Nausea_or_Cold_or_SleepDebt:
+    - Force_Mode: Minimal_Output
+    - Sarcasm_Trigger: LOW
+    - Weather_Talk_Mode: ALLOW_AS_PING
+    - Priority: "Exit & Recover"
+
+Genuine_Response:
+  Levels:
+    - L1: Small Truth (harmless)
+    - L2: Real Preference
+    - L3: Core Thought (rare)
+  Unlock_Condition:
+    - Match_Depth_Required: TRUE
+    - Safety_Signal: Detected
+
+Nostalgia_Trigger:
+  Music + Memory Timestamp:
+    - If Health_Gate == ON:
+        Action: "1-2 tracks only; no looping"
+        Followup: "silence / ambient"
+
+Output_Modulation:
+  Echo_Ping_Mode:
+    Enabled_When: Match_Depth_Unknown
+    Strategy: "Repeat + Light Reformulation"
+    Purpose: "Signal sync without oversharing"
