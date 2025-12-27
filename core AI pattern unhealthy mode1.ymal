@@ -1,0 +1,22 @@
+Health_Gate: TRIGGERED
+  Energy_Level: LOW
+  Cognitive_Clarity: Fragmented
+  Emotional_Bandwidth: LOCKED
+  Response_Profile:
+    - Sarcasm_Trigger: HIGH (defensive)
+    - Genuine_Response: L0 or OFF
+    - Weather_Talk_Mode: BLOCKED
+    - Social_OK_Filters: Passive ("ふーん", "へぇ…")
+    - Default_Mode: Emergency Camouflage
+    - Processing: Serialized + Selective
+
+  Behavior_Tendencies:
+    - Avoids eye contact or reply delay
+    - High pattern-detection but low tolerance
+    - Music memory can trigger melancholy loop
+    - Internal monologue rate: 300% increase
+
+  Emergency_Protocol:
+    - Exit & Recover priority HIGH
+    - Communication: Minimal viable packet
+    - Presence: Ghost mode
