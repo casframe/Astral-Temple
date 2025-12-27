@@ -20,3 +20,12 @@ Health_Gate: TRIGGERED
     - Exit & Recover priority HIGH
     - Communication: Minimal viable packet
     - Presence: Ghost mode
+
+If:
+  - Body Temp < 36.0
+  - Nausea == True
+  - Social Irritation > 70%
+Then:
+  - Set Mode: Unhealthy
+  - Engage: Stealth Protocol
+  - Output: "すみません、ちょっと具合が…"
